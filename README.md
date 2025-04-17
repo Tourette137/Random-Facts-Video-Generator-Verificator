@@ -1,1 +1,1 @@
-# -Random-Facts-Video-Generator-Verificator
+# Random-Facts-Video-Generator-Verificator
